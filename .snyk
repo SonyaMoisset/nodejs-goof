@@ -22,3 +22,6 @@ patch:
         patched: '2023-02-14T15:01:47.384Z'
     - tap > nyc > istanbul-lib-instrument > babel-template > babel-traverse > babel-types > lodash:
         patched: '2023-02-14T15:01:47.384Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2023-02-14T15:04:38.413Z'
